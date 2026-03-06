@@ -176,6 +176,12 @@ body {
   text-align: center;
 }
 
+.icon {
+  width: 18px;
+  height: 18px;
+  opacity: 0.8;
+}
+
 @media (max-width: 360px) {
   .card {
     padding: 20px 16px 16px;
